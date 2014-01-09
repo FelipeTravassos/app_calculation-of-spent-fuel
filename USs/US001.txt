@@ -1,0 +1,3 @@
+Para calcular o usuário deve passar a cidade de destino 
+e origem escolhendo o estado e em seguida a cidade, o consumo médio
+do veículo e preço do combustível.
