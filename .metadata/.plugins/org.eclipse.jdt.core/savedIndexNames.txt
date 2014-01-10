@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+/home/felipe/projetosAndroid/app_calculation-of-spent-fuel/.metadata/.plugins/org.eclipse.jdt.core
+979833499.index
+3988424868.index
+4212832980.index
