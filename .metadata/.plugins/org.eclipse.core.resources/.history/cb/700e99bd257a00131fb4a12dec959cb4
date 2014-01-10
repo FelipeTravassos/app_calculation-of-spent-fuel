@@ -15,9 +15,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/cidade_origem"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="#006400" />
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,13 +25,11 @@
         <Spinner
             android:id="@+id/spinnerStateStart"
             android:layout_width="84dp"
-        android:textColor="#006400"
             android:layout_height="wrap_content" />
 
         <Spinner
             android:id="@+id/spinnerCityStart"
             android:layout_width="wrap_content"
-        android:textColor="#006400"
             android:layout_height="wrap_content"
             android:layout_weight="1" />
 
@@ -43,9 +40,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/cidade_destino"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="#006400" />
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -54,13 +50,11 @@
         <Spinner
             android:id="@+id/spinnerStateStart"
             android:layout_width="84dp"
-        android:textColor="#006400"
             android:layout_height="wrap_content" />
 
         <Spinner
             android:id="@+id/spinnerCityStart"
             android:layout_width="wrap_content"
-        android:textColor="#006400"
             android:layout_height="wrap_content"
             android:layout_weight="1" />
 
@@ -71,16 +65,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/consumo_medio"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="#006400" />
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
         android:id="@+id/editTextAverageConsumption"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:textColor="#006400"
         android:inputType="numberDecimal" >
 
         <requestFocus />
@@ -91,16 +83,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
-        android:text="@string/preco_combustivel"
-        android:textAppearance="?android:attr/textAppearanceMedium"
-        android:textColor="#006400" />
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <EditText
         android:id="@+id/editTextFuelPrice"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:textColor="#006400"
         android:inputType="numberDecimal" />
 
     <Button
@@ -108,6 +98,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
-        android:text="@string/calcular" />
+        android:text="Button" />
     
 </LinearLayout>

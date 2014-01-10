@@ -11,6 +11,5 @@
     <string name="cidade_destino">Cidade destino</string>
     <string name="preco_combustivel">Preco combustivel</string>
     <string name="consumo_medio">Consumo medio</string>
-    <string name="calcular">Calcular</string>
 
 </resources>
